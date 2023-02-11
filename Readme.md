@@ -8,7 +8,7 @@ A simple DOM wrapper for libxmljs.
 
 ## Install
 
-> $ npm install libxmljs-dom
+> $ npm install libxmljs-dom@github:pycabbage/libxmljs-dom
 
 
 ## Documentation
